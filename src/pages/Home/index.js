@@ -7,6 +7,7 @@ function App() {
   return (
     <div className="App">
       <Header />
+      
       <div className='content'>
         <img src={background} className='background' alt='Imagem do mascote do Github, como background do app' />
         <div className='information'>
