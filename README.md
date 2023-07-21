@@ -42,7 +42,8 @@ O GitFind é uma aplicação que busca e encontra dados no Github, seja de usuá
 -->
 ## 🔖 Layout
 
-Esse projeto não possui link para o layout prévio, ele foi desenvolvido no decorrer da Formação React Developer.
+
+Você pode visualizar o layout do projeto através [Desse Link](https://www.figma.com/file/IXySq1eGSvvY9nSGLbKcom/GitFind?node-id=2%3A2&mode=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 
 ## 📑 Aprendizado
