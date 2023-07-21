@@ -13,17 +13,17 @@
 }
 
 .information {
-   width: 60%;
-   margin-right: 90px; 
-   margin-top: 40px;
-   color: #FFFFFF;
+    width: 60%;
+    margin-right: 90px;
+    margin-top: 40px;
+    color: #FFFFFF;
 }
 
 input {
     border-radius: 22px;
     min-width: 200px;
     margin-right: 12px;
-    width: 80%;
+    width: 40%;/*---------------------------*/
     border: 1px solid #999999;
     background: transparent;
     font-size: 18px;
@@ -39,6 +39,13 @@ button {
     font-size: 18px;
     color: #FFFFFF;
     padding: 10px;
+}
+
+button:hover {
+    border: 1px solid #FFFFFF;
+    background: rgba(45, 51, 59, .6);
+    color: #bde218;
+    cursor: pointer;
 }
 
 .perfil {
@@ -65,7 +72,7 @@ button {
     display: block;
     color: #999999;
     font-size: 12px;
-    margin: 0; 
+    margin: 0;
 }
 
 .perfil p {
@@ -75,3 +82,9 @@ button {
 }
 
 
+.repos {
+    font-size: 32px;
+    color: #FFFFFF;
+    margin: 12px 0;
+    text-align: center;
+}
