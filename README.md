@@ -37,7 +37,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O GitFind é uma aplicação que busca e encontra dados no Github, seja de usuários, repositórios, projetos e afins, consumindo a API do github.
 
 <!--
-[Acesse o projeto finalizado, online](https://Gustavo-Zamai.github.io/dev_links)
+[Acesse o projeto finalizado, online](https://Gustavo-Zamai.github.io/GitFind)
 - [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 -->
 ## 🔖 Layout
@@ -50,7 +50,8 @@ Você pode visualizar o layout do projeto através [Desse Link](https://www.figm
 
 Durante esse projeto utilizei conceitos para dar padrão no código, utilizando Eslint, Prettier e Editor Config.</br>
 Foi mostrado uma maneira mais correta para organizar os componentes da aplicação, separando cada um em uma pasta.</br>
-Aprendi a organizar por debaixo dos panos uma aplicação React, configurando o Babel e Webpack.
+Aprendi a organizar por debaixo dos panos uma aplicação React, configurando o Babel e Webpack.</br>
+Foi aplicado o conceito de Async await, para receber dados da API do github, vale ressaltar que antes de receber foi feita uma validação dentro das funções.
 
 ## 📝 Licença
 
@@ -58,4 +59,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ por Gustavo Zamai 😏😄
+Feito com ♥ por Gustavo Zamai 🐙
