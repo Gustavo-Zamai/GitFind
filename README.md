@@ -19,7 +19,7 @@ Aplicação que busca e encontra usuários, repositórios, projetos e afins no G
 <br>
 
 <p align="center">
-  <img alt="projeto GitFind" src="" width="100%">
+  <img alt="Projeto GitFind" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -42,7 +42,7 @@ O GitFind é uma aplicação que busca e encontra dados no Github, seja de usuá
 -->
 ## 🔖 Layout
 
-Esse projeto não possui layout prévio, ele foi desenvolvido no decorrer da Formação React Developer.
+Esse projeto não possui link para o layout prévio, ele foi desenvolvido no decorrer da Formação React Developer.
 
 
 ## 📑 Aprendizado
